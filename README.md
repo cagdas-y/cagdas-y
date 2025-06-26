@@ -1,108 +1,120 @@
 <!-- ========================================= -->
-<!--       Çağdaş - Revolutionary Profile       -->
+<!--        Çağdaş - TechnoFuturist Profile      -->
 <!-- ========================================= -->
 
+```text
+███████╗ █████╗  ██████╗ ██████╗ ██████╗ █████╗ ████████╗
+╚══███╔╝██╔══██╗██╔═══██╗██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝
+  ███╔╝ ███████║██║   ██║██████╔╝██████╔╝███████║   ██║
+ ███╔╝  ██╔══██║██║   ██║██╔═══╝ ██╔═══╝ ██╔══██║   ██║
+███████╗██║  ██║╚██████╔╝██║     ██║     ██║  ██║   ██║
+╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝     ╚═╝  ╚═╝   ╚═╝
+```
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cagdas-y/cagdas-y/main/assets/space-nebula.gif" alt="Nebula Animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/cagdas-y/cagdas-y/main/assets/tech-grid.gif" alt="Tech Grid" width="100%"/>
 </p>
 
-<h1 align="center">🚀 Çağdaş</h1>
-<h3 align="center">Cyber-Physical Security Architect & IoT Innovator</h3>
-<p align="center">🇹🇷 Türkiye • <em>"Secure the unseen, shape tomorrow."</em></p>
+<h1 align="center">🔧 Çağdaş</h1>
+<h3 align="center">TechnoFuturist | Cyber-Physical Security Architect</h3>
+<p align="center">🇹🇷 Turkey • <em>"Hacking hardware, mastering code."</em></p>
 
 <div align="center">
-  <a href="https://github.com/cagdas-y"><img src="https://img.shields.io/github/followers/cagdas-y?label=Follow&style=social" alt="Follow"/></a>
-  <a href="https://komarev.com/ghpvc/?username=cagdas-y"><img src="https://img.shields.io/badge/Views-10K%2B-blue?style=for-the-badge" alt="Views"/></a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-green?style=for-the-badge" alt="Status"/>
+  <a href="https://github.com/cagdas-y"><img src="https://img.shields.io/github/followers/cagdas-y?label=Follow&style=social&color=0f0"/></a>
+  <a href="https://komarev.com/ghpvc/?username=cagdas-y"><img src="https://img.shields.io/badge/Views-20K%2B-00FF00?style=flat-square"/></a>
+  <img src="https://img.shields.io/badge/Status-Open%20for%20Innovation-00FF00?style=flat-square"/>
 </div>
 
 ---
 
-## ✨ Highlights
-
-- 🎯 **Role**: Cyber-Physical Security Architect
-- 🛠️ **Expertise**: CCTV Pentesting, Firmware Analysis, AI Vision
-- 🌐 **Domains**: IoT, Edge Computing, Cloud Automation
-- 📚 **Learning**: Zero-Trust, Hardware Fuzzing, Federated ML
+## ⚡ Highlights
+- 💡 **Vision**: Merge IoT & AI for autonomous security.
+- 🎯 **Role**: Cyber-Physical Security Architect.
+- 🛠️ **Expertise**: CCTV Pentest, Firmware Forensics, Edge AI.
+- 🌐 **Focus**: Cloud-Native Defense & Hardware Hardening.
 
 ---
 
-## 🧰 Tech Arsenal
+## 🔭 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,go,bash,linux,docker,kubernetes,ansible,opencv,nmap,burpsuite,wireshark,redis,mysql,arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=python,go,cpp,js,linux,docker,kubernetes,ansible,terraform,opencv,nmap,burp,wireshark" />
 </div>
 
 ---
 
-## 🔭 Featured Projects
-
+## 🚀 Featured Projects
 <details>
-<summary>🚨 CCTV Security Scanner</summary>
-<p>Automates RTSP/ONVIF scanning, vulnerability detection, and exploit chaining (<a href="https://github.com/cagdas-y/CCTV-Security-Scanner">repo</a>).</p>
+<summary>📡 **CCTV Scanner AI**</summary>
+<ul>
+<li>Automated RTSP/ONVIF scanning with ML anomaly flagging.</li>
+<li>[Repo](https://github.com/cagdas-y/CCTV-Security-Scanner)</li>
+</ul>
 </details>
 
 <details>
-<summary>🤖 RTSP Bot</summary>
-<p>Shodan-powered camera discovery and live stream aggregator (<a href="https://github.com/cagdas-y/rtsp-bot">repo</a>).</p>
+<summary>🤖 **Shodan RTSP Bot**</summary>
+<ul>
+<li>Live feed aggregator & metadata extractor.</li>
+<li>[Repo](https://github.com/cagdas-y/rtsp-bot)</li>
+</ul>
 </details>
 
 <details>
-<summary>🔧 Firmware Toolbox</summary>
-<p>Suite for IoT firmware extraction, reverse-engineering, and fuzzing (<a href="https://github.com/cagdas-y/firmware-toolbox">repo</a>).</p>
+<summary>🔧 **Firmware Forge**</summary>
+<ul>
+<li>Toolkit for firmware unpacking & vulnerability chaining.</li>
+<li>[Repo](https://github.com/cagdas-y/firmware-toolbox)</li>
+</ul>
 </details>
 
 <details>
-<summary>🧠 AnomalyAI</summary>
-<p>AI-driven anomaly detection pipeline for live CCTV feeds (<a href="https://github.com/cagdas-y/anomalyai">repo</a>).</p>
+<summary>🧠 **AnomalyAI**</summary>
+<ul>
+<li>Edge AI pipeline for real-time security alerts.</li>
+<li>[Repo](https://github.com/cagdas-y/anomalyai)</li>
+</ul>
 </details>
 
 ---
 
-## 🏆 Achievements & Talks
-
-| Year | Achievement |
-|------|-------------|
-| 2023 | DEFCON Satellite Workshop Host |
+## 🏅 Achievements
+| Year | Milestone |
+|------|-----------|
+| 2023 | Published 2 Camera Firmware CVEs |
 | 2024 | Keynote @ IoT Security Summit |
-| 2024 | Published 2 CVEs in Camera Firmware |
-| 2025 | Top 5% on HackTheBox |
+| 2025 | Top 1% HackTheBox & CTFs |
 
 ---
 
 ## 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cagdas-y&show_icons=true&theme=dracula&hide_border=true" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cagdas-y&theme=react-dark&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cagdas-y&theme=tokyonight&show_icons=true&bg_color=000000&hide_border=true" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cagdas-y&theme=tokyonight&hide_border=true" width="45%"/>
 </p>
 
 ---
 
-## ⭐ Open Source Contributions
-
-- 🛠️ Enhanced **ZoneMinder** modules for better camera support
-- 🔧 Patched CVEs in **onvif** and **ffmpeg**
-- 🌟 Maintainer of **cctv-security-kit** toolkit
-
----
-
-## 🤖 Automations & CI/CD
-
-- 🔄 Blog updater via GitHub Actions
-- 📈 Daily stats and WakaTime refresh
-- ⚠️ CVE monitoring and alert workflows
+## 🌱 Open Source 
+- 🛠️ **ZoneMinder** enhancements.
+- 🐛 CVE patches for **ONVIF**, **FFmpeg**.
+- 🌟 Maintainer of **cctv-security-kit**.
 
 ---
 
-## 💬 Let’s Connect
+## 🔄 CI/CD & Automations
+- 🚀 Auto-deploy docs & blog posts.
+- 🔄 Daily stats refresh.
+- ⚠️ Real-time CVE alerts.
 
+---
+
+## 📫 Connect & Collaborate
 <div align="center">
-  <a href="mailto:cadozc.3506@gmail.com"><img src="https://img.shields.io/badge/Gmail-cadozc.3506@gmail.com-D14836?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/cagdas-y"><img src="https://img.shields.io/badge/LinkedIn-cagdas--y-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://instagram.com/cagdas.rrf"><img src="https://img.shields.io/badge/Instagram-cagdas.rrf-E4405F?style=for-the-badge&logo=instagram" /></a>
+  <a href="mailto:cadozc.3506@gmail.com"><img src="https://img.shields.io/badge/Gmail-cadozc.3506@gmail.com-00FF00?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://linkedin.com/in/cagdas-y"><img src="https://img.shields.io/badge/LinkedIn-cagdas--y-00FF00?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://instagram.com/cagdas.rrf"><img src="https://img.shields.io/badge/Instagram-cagdas.rrf-00FF00?style=for-the-badge&logo=instagram"/></a>
 </div>
 
 ---
 
-<p align="center">
-  <em>“In a world of unseen threats, vision is the ultimate firewall.”</em>
-</p>
+<p align="center"><em>“Innovation secures the future.”</em></p>
