@@ -1,5 +1,5 @@
 <!-- ======================================= -->
-<!--      Çağdaş - Ultimate Security Profile     -->
+<!--      Çağdaş - Elite Security Profile     -->
 <!-- ======================================= -->
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/cagdas-y"><img src="https://komarev.com/ghpvc/?username=cagdas-y&style=flat-square&color=0e75b6&label=Visitors" alt="Visitors"/></a>
-  <a href="#about"><img src="https://img.shields.io/badge/Status-Actively%20Seeking%20Opportunities-green?style=flat-square" alt="Status"/></a>
+  <a href="#about"><img src="https://img.shields.io/badge/Status-Open%20To%20Opportunities-green?style=flat-square" alt="Status"/></a>
   <a href="#tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-Cutting-Edge-blue?style=flat-square" alt="Tech Stack"/></a>
   <a href="#contact--socials"><img src="https://img.shields.io/badge/Contact-Anytime-red?style=flat-square" alt="Contact"/></a>
 </p>
@@ -24,6 +24,8 @@
 - [Tech Stack](#tech-stack)
 - [Certifications & Talks](#certifications--talks)
 - [Featured Projects](#featured-projects)
+- [Achievements](#achievements)
+- [GitHub Stats & Calendar](#github-stats--calendar)
 - [Blog & Publications](#blog--publications)
 - [Open Source Contributions](#open-source-contributions)
 - [GitHub Actions & Automations](#github-actions--automations)
@@ -49,6 +51,7 @@ skills:
 
 - 🎯 Passion: Architecting secure surveillance and IoT solutions.
 - 🌱 Continuously learning: Federated learning, hardware fuzzing, zero-trust.
+- ⚡️ Fun Fact: Brew coffee at 3 AM to debug nocturnal exploits.
 
 ---
 
@@ -101,6 +104,29 @@ skills:
 | [RTSP Bot](https://github.com/cagdas-y/rtsp-bot) | Shodan-powered camera discovery & live streaming. |
 | [Firmware Toolbox](https://github.com/cagdas-y/firmware-toolbox) | IoT firmware extraction & analysis suite. |
 | [AnomalyAI](https://github.com/cagdas-y/anomalyai) | AI-based video anomaly detection pipeline. |
+
+---
+
+## 🏅 Achievements
+- 🏆 Ranked Top 5% in HackTheBox Security Challenges.
+- 📜 Published 2 CVEs on embedded camera firmware.
+- 📖 Featured speaker on IoT security in multiple conferences.
+
+---
+
+## 📊 GitHub Stats & Calendar
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=cagdas-y&show_icons=true&theme=radical&hide_border=true" />
+  <img width="45%" src="https://streak-stats.demolab.com?user=cagdas-y&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-sparkline.vercel.app/?user=cagdas-y&theme=dark&area=true" alt="Sparkline" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=cagdas-y&theme=react-dark&area=true" alt="Activity graph" width="100%" />
+</p>
 
 ---
 
