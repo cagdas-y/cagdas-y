@@ -1,114 +1,147 @@
-<!-- ================================ -->
-<!--      Çağdaş Yusuf - Profile     -->
-<!-- ================================ -->
+<!-- ======================================= -->
+<!--      Çağdaş - Ultimate Security Profile     -->
+<!-- ======================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=🎥+Camera+Security+|+🛡️+Cyber+Defense+|+💻+Software+&+Hardware;🔍+Computer+Vision+|+Network+Pentest+|+IoT+Exploitation;🔧+Python+%7C+Bash+%7C+C%2B%2B+%7C+Linux;Always+Building+Next-Gen+Surveillance+Tools" alt="typing"/>
+  <img src="https://raw.githubusercontent.com/cagdas-y/cagdas-y/main/assets/banner.gif" alt="Banner Gif" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cagdas-y&label=Visitors&color=0e75b6&style=flat-square" alt="Visitors" />
-  <img src="https://img.shields.io/badge/Location-Türkiye-ff69b4?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/Motto-Secure+The+Unseen-6e5494?style=flat-square" alt="Motto" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=800&center=true&vCenter=true&width=800&lines=🎥+Camera+Security+|+🛡️+Cyber+Defense+|+💻+Cloud+&+Edge;🔍+AI+Vision+|+Network+Pentest+|+IoT+Reverse+Engineering;🔧+Python+%7C+Bash+%7C+C%2B%2B+%7C+Go;Always+Securing+Tomorrow" alt="typing"/>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-- 📍 Based in **Türkiye**  
-- 🔭 Working on **CCTV Exploitation & Automation Tools**  
-- 🧠 Learning **firmware analysis**, **embedded C**, **advanced IoT scanning**  
-- 🔐 Focus: **Cyber-physical systems**, **reverse engineering**, **network security**  
-- 🎯 Passion: **Merging hardware insights with cutting-edge software defenses**
-
----
-
-## ⚙️ Tech Arsenal
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,opencv,nmap,arduino,raspberrypi,sqlite,nodejs,docker,git,ffmpeg,wireshark,burpsuite" />
+  <a href="https://github.com/cagdas-y"><img src="https://komarev.com/ghpvc/?username=cagdas-y&style=flat-square&color=0e75b6&label=Visitors" alt="Visitors"/></a>
+  <a href="#about"><img src="https://img.shields.io/badge/Status-Actively%20Seeking%20Opportunities-green?style=flat-square" alt="Status"/></a>
+  <a href="#tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-Cutting-Edge-blue?style=flat-square" alt="Tech Stack"/></a>
+  <a href="#contact--socials"><img src="https://img.shields.io/badge/Contact-Anytime-red?style=flat-square" alt="Contact"/></a>
 </p>
 
 ---
 
-## 🔍 Computer Vision & Camera
-
-| Library / Tool                                        | Purpose                                     |
-|-------------------------------------------------------|---------------------------------------------|
-| ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)            | Video frame analysis & motion detection     |
-| ![FFmpeg](https://img.shields.io/badge/FFmpeg-000000?style=flat-square&logo=ffmpeg&logoColor=white)          | Stream transcoding & capture                |
-| ![GStreamer](https://img.shields.io/badge/GStreamer-4191C9?style=flat-square&logo=gstreamer&logoColor=white) | Real-time pipeline processing               |
-| ![ONVIF](https://img.shields.io/badge/ONVIF-005DA4?style=flat-square)                                         | IP camera control & discovery               |
-
----
-
-## 🔒 Cybersecurity Focus
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-589632?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=portswigger&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge&logo=wireshark&logoColor=white" />
-</p>
+## 📖 Table of Contents
+- [About Me](#about)
+- [Tech Stack](#tech-stack)
+- [Certifications & Talks](#certifications--talks)
+- [Featured Projects](#featured-projects)
+- [Blog & Publications](#blog--publications)
+- [Open Source Contributions](#open-source-contributions)
+- [GitHub Actions & Automations](#github-actions--automations)
+- [Sponsors & Support](#sponsors--support)
+- [Contact & Socials](#contact--socials)
 
 ---
 
-## 💾 Data & Storage
+## 👤 About Me
+```yaml
+name: Çağdaş
+title: Cyber-Physical Security Architect
+location: Türkiye
+status: Actively Seeking Opportunities
+motto: "Secure the unseen — frame by frame."
+skills:
+  - Network Pentesting
+  - Firmware & Embedded Analysis
+  - IoT & Sensor Exploits
+  - AI-Powered Vision Systems
+  - DevOps & Cloud Automation
+```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/InfluxDB-22BF65?style=for-the-badge&logo=influxdata&logoColor=white" />
-</p>
+- 🎯 Passion: Architecting secure surveillance and IoT solutions.
+- 🌱 Continuously learning: Federated learning, hardware fuzzing, zero-trust.
 
 ---
 
-## 🖥️ Hardware & Labs
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CPU-Intel_i7-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/GPU-RTX_3070-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-32GB-FFC400?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Storage-1TB_NVMe-FF6F00?style=for-the-badge&logo=ssd&logoColor=white" />
-</p>
+## ⚙️ Tech Stack
+<table>
+  <tr>
+    <td align="center">
+      <strong>Languages & Frameworks</strong><br>
+      <img src="https://skillicons.dev/icons?i=python,go,js,cpp,bash,flask,nodejs,django"/>
+    </td>
+    <td align="center">
+      <strong>Security & Pentesting</strong><br>
+      <img src="https://skillicons.dev/icons?i=nmap,burpsuite,metasploit,sqlmap,nessus"/>
+    </td>
+    <td align="center">
+      <strong>Vision & Media</strong><br>
+      <img src="https://skillicons.dev/icons?i=opencv,ffmpeg,gstreamer,tensorflow"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Cloud & Infra</strong><br>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform"/>
+    </td>
+    <td align="center">
+      <strong>Data & Storage</strong><br>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,influxdb"/>
+    </td>
+    <td align="center">
+      <strong>Hardware & IoT</strong><br>
+      <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,esp32,stm32"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats & Trophies
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=cagdas-y&show_icons=true&theme=radical&hide_border=true" />
-  <img width="45%" src="https://streak-stats.demolab.com?user=cagdas-y&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cagdas-y&theme=dracula&column=6&no-frame=true" alt="Trophies" />
-</p>
+## 📜 Certifications & Talks
+- 🎓 **CompTIA Security+** (2024)
+- 🎓 **Certified Ethical Hacker (CEH)** (2025)
+- 🎤 **Keynote**: IoT Security Summit, Istanbul (2024)
+- 🛠️ **Workshop**: Camera Reverse Engineering @ DEFCON Satellite (2023)
 
 ---
 
 ## 🚀 Featured Projects
-
-| 🚨 Project                             | Description                                         |
-|----------------------------------------|-----------------------------------------------------|
-| [CCTV-Security-Scanner](https://github.com/cagdas-y/CCTV-Security-Scanner) | 🔍 RTSP/ONVIF scanner & vulnerability detector       |
-| [RTSP-Bot](https://github.com/cagdas-y/rtsp-bot)                         | 🤖 Shodan-driven camera collector & viewer          |
-| [Firmware-Toolbox](https://github.com/cagdas-y/firmware-toolbox)         | 🛠️ Embedded firmware extraction & exploit suite     |
+| 🚨 Project | Description |
+|------------|-------------|
+| [CCTV Security Scanner](https://github.com/cagdas-y/CCTV-Security-Scanner) | RTSP/ONVIF vulnerability detection & automation. |
+| [RTSP Bot](https://github.com/cagdas-y/rtsp-bot) | Shodan-powered camera discovery & live streaming. |
+| [Firmware Toolbox](https://github.com/cagdas-y/firmware-toolbox) | IoT firmware extraction & analysis suite. |
+| [AnomalyAI](https://github.com/cagdas-y/anomalyai) | AI-based video anomaly detection pipeline. |
 
 ---
 
-## 📫 Connect With Me
+## 📝 Blog & Publications
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
+---
+
+## 🤝 Open Source Contributions
+- 💡 PRs to **Motion**, **ZoneMinder**, **GStreamer** enhancing camera modules.
+- 🐛 Reported & patched CVEs in `onvif` and `ffmpeg`.
+- ⭐ Maintainer for `cctv-security-kit` community toolkit.
+
+---
+
+## 🤖 GitHub Actions & Automations
+- 🔄 **Blog Fetcher**: Auto-updates Medium & Dev.to list.
+- 📈 **Stats Refresher**: Daily cache invalidation for stats cards.
+- ⚠️ **CVE Watcher**: Real-time alerts for camera/IoT vulnerabilities.
+- 📝 **Doc Generator**: Auto-generates API docs from code.
+
+---
+
+## 💖 Sponsors & Support
 <p align="center">
-  <a href="mailto:cadozc.3506@gmail.com"><img src="https://img.shields.io/badge/Gmail-cadozc.3506@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/cagdas-y" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-cagdas--y-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/cagdas.rrf" target="_blank"><img src="https://img.shields.io/badge/Instagram-cagdas.rrf-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/sponsors/cagdas-y"><img src="https://img.shields.io/badge/Sponsor-Me-ff470f?style=for-the-badge&logo=github"/></a>
+  <a href="https://buymeacoffee.com/cagdas"><img src="https://img.shields.io/badge/Buy Me a Coffee-☕-ff813f?style=for-the-badge&logo=buymeacoffee&logoColor=white"/></a>
 </p>
 
 ---
 
-<blockquote align="center">
-  <strong>🧩 “Security isn’t just software—it’s the synergy of code, camera, and human vigilance.”</strong><br>
-  <em>– Unknown Hacker</em>
-</blockquote>
+## 📫 Contact & Socials
+<p align="center">
+  <a href="mailto:cadozc.3506@gmail.com"><img src="https://img.shields.io/badge/Gmail-cadozc.3506@gmail.com-D14836?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://linkedin.com/in/cagdas-y"><img src="https://img.shields.io/badge/LinkedIn-cagdas--y-0077B5?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://instagram.com/cagdas.rrf"><img src="https://img.shields.io/badge/Instagram-cagdas.rrf-E4405F?style=for-the-badge&logo=instagram"/></a>
+</p>
+
+---
+
+<p align="center">
+  <em>“Security is less about walls and more about vision.”</em>
+</p>
