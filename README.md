@@ -1,123 +1,110 @@
 <!-- ========================================= -->
-<!--      Çağdaş - Next-Gen Security Profile     -->
+<!--      Çağdaş - Revolutionary Profile       -->
 <!-- ========================================= -->
 
+<!-- Profile Summary Cards -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cagdas-y/cagdas-y/main/assets/banner.gif" alt="Banner Gif" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cagdas-y&theme=solarized_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cagdas-y&theme=solarized_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/languages?username=cagdas-y&theme=solarized_dark" />
+</p>
+
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cagdas-y/cagdas-y/main/assets/animated-security.gif" alt="Security Animation" width="100%"/>
+</p>
+
+<!-- Dynamic Title with Gradient -->
+<h1 align="center">
+  <img src="https://img.shields.io/badge/Çağdaş-Next%20Gen%20Sec-Gradient?style=for-the-badge&logo=github&logoColor=white" alt="Çağdaş Profile"/>
+</h1>
+
+<!-- Animated Typing Subtitle -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=700&center=true&vCenter=true&width=800&lines=Innovating+Camera+Security...;Automating+Exploits...;Empowering+IoT+Defense..." alt="typing"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&center=true&vCenter=true&width=800&lines=🎥+Camera+Security+|+🛡️+Cyber+Defense+|+💻+Cloud+%26+Edge;🔍+AI+Vision+|+Network+Pentest+|+IoT+Exploit;🔧+Python+%7C+Bash+%7C+C%2B%2B+%7C+Go;Elevating+Security+with+Code" alt="typing"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/cagdas-y"><img src="https://komarev.com/ghpvc/?username=cagdas-y&style=flat-square&color=0e75b6&label=Visitor%20Count" alt="Visitors"/></a>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cagdas-y&layout=compact&theme=dark&hide_border=true" alt="WakaTime stats" align="center"/>
+  ![Visitors](https://komarev.com/ghpvc/?username=cagdas-y&style=flat-square&color=blue)
+  &nbsp;
+  ![Followers](https://img.shields.io/github/followers/cagdas-y?label=Followers&style=social)
 </p>
 
 ---
 
-## 📖 Table of Contents
-- [About Me](#about)
-- [Tech Stack](#tech-stack)
-- [Certifications & Talks](#certifications--talks)
-- [Featured Projects](#featured-projects)
-- [Achievements](#achievements)
-- [GitHub Stats & Calendar](#github-stats--calendar)
-- [Blog & Publications](#blog--publications)
-- [Open Source Contributions](#open-source-contributions)
-- [GitHub Actions & Automations](#github-actions--automations)
-- [Sponsors & Support](#sponsors--support)
-- [Contact & Socials](#contact--socials)
+## 📖 Contents
+- 🔹 [About](#about)
+- 🔹 [Tech Stack](#tech-stack)
+- 🔹 [Skills Animation](#skills-animation)
+- 🔹 [Certifications](#certifications)
+- 🔹 [Projects Showcase](#projects-showcase)
+- 🔹 [Achievements](#achievements)
+- 🔹 [GitHub Insights](#github-insights)
+- 🔹 [Blog & Publications](#blog--publications)
+- 🔹 [OSS Contributions](#oss-contributions)
+- 🔹 [Automations](#automations)
+- 🔹 [Connect & Sponsors](#connect--sponsors)
 
 ---
 
-## 👤 About Me
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="coding" width="200"/>
-</p>
+## 👤 About
 ```yaml
 name: Çağdaş
-title: Cyber-Physical Security Architect
+title: Cyber-Physical Security Innovator
 location: Türkiye
-status: Actively Seeking Opportunities
-motto: "Secure the unseen — frame by frame."
-skills:
-  - Network Pentesting
-  - Firmware & Embedded Analysis
-  - IoT & Sensor Exploits
-  - AI-Powered Vision Systems
-  - DevOps & Cloud Automation
+status: Open to Opportunities
+motto: "Securing the future, frame by frame."
 ```
-- 🎯 Passion: Architecting secure surveillance and IoT solutions.
-- 🌱 Learning: Federated learning, hardware fuzzing, zero-trust.
-- ⚡️ Fun Fact: Brew coffee at 3 AM to debug nocturnal exploits.
+- 🚀 Passion: Fusing hardware expertise with brilliant code.
+- 🌐 Building: AI-driven anomaly detection for surveillance.
 
 ---
 
 ## ⚙️ Tech Stack
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagdas-y&layout=donut&theme=radical&hide_border=true" alt="Top Langs" width="400"/>
+  <img src="https://skillicons.dev/icons?i=python,go,js,cpp,bash,linux,ansible,docker,kubernetes,opencv,nmap,metasploit,redis,golang" />
 </div>
-<table>
-  <tr>
-    <td align="center"><strong>Languages</strong><br/><img src="https://skillicons.dev/icons?i=python,go,js,cpp,bash"/></td>
-    <td align="center"><strong>Security</strong><br/><img src="https://skillicons.dev/icons?i=nmap,burpsuite,metasploit,sqlmap,nessus"/></td>
-    <td align="center"><strong>Vision</strong><br/><img src="https://skillicons.dev/icons?i=opencv,ffmpeg,gstreamer,tensorflow"/></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Infra</strong><br/><img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform"/></td>
-    <td align="center"><strong>Data</strong><br/><img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,influxdb"/></td>
-    <td align="center"><strong>Hardware</strong><br/><img src="https://skillicons.dev/icons?i=arduino,raspberrypi,esp32,stm32"/></td>
-  </tr>
-</table>
 
 ---
 
-## 📜 Certifications & Talks
+## 🔄 Skills Animation
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" alt="certificate" width="200"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Skills Animation" width="300"/>
 </p>
-- 🎓 **CompTIA Security+** (2024)
-- 🎓 **Certified Ethical Hacker (CEH)** (2025)
-- 🎤 **Keynote**: IoT Security Summit, Istanbul (2024)
-- 🛠️ **Workshop**: Camera Reverse Engineering @ DEFCON Satellite (2023)
 
 ---
 
-## 🚀 Featured Projects
+## 📜 Certifications
+- 🏅 CompTIA Security+ (2024)
+- 🎖️ CEH (2025)
+- 🗣️ Keynote: IoT Security Summit 2024
+
+---
+
+## 🚀 Projects Showcase
 <p align="center">
-  <img src="https://media.giphy.com/media/5xtDarzp5at2qwSTwDe/giphy.gif" alt="projects" width="200"/>
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="Projects Showcase" width="300"/>
 </p>
-| 🚨 Project | Description |
-|------------|-------------|
-| [CCTV Security Scanner](https://github.com/cagdas-y/CCTV-Security-Scanner) | RTSP/ONVIF vulnerability detection & automation. |
-| [RTSP Bot](https://github.com/cagdas-y/rtsp-bot) | Shodan-powered camera discovery & live streaming. |
-| [Firmware Toolbox](https://github.com/cagdas-y/firmware-toolbox) | IoT firmware extraction & analysis suite. |
-| [AnomalyAI](https://github.com/cagdas-y/anomalyai) | AI-based video anomaly detection pipeline. |
+| 📂 Project | Details |
+|-----------|---------|
+| [CCTV Security Scanner](https://github.com/cagdas-y/CCTV-Security-Scanner) | Automated RTSP/ONVIF vulnerability pipeline |
+| [RTSP Bot](https://github.com/cagdas-y/rtsp-bot) | Live camera aggregator via Shodan |
+| [Firmware Toolbox](https://github.com/cagdas-y/firmware-toolbox) | IoT firmware reverse-engineering suite |
+| [AnomalyAI](https://github.com/cagdas-y/anomalyai) | Real-time anomaly detection model |
 
 ---
 
 ## 🏅 Achievements
-- 🏆 Ranked Top 5% in HackTheBox Security Challenges.
-- 📜 Published 2 CVEs on embedded camera firmware.
-- 📖 Featured speaker on IoT security in multiple conferences.
+- 🏆 Top 5% HackTheBox
+- 📜 Published 2 CVEs in embedded firmware
+- 💡 Maintainer: cctv-security-kit toolkit
 
 ---
 
-## 📊 GitHub Stats & Calendar
+## 📊 GitHub Insights
 <p align="center">
-  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" alt="stats" width="100%"/>
-</p>
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=cagdas-y&show_icons=true&theme=radical&hide_border=true" />
-  <img width="45%" src="https://streak-stats.demolab.com?user=cagdas-y&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-profile-sparkline.vercel.app/?user=cagdas-y&theme=dark&area=true" alt="Sparkline" />
-</p>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=cagdas-y&theme=react-dark&area=true" alt="Activity graph" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cagdas-y&theme=dark&show_icons=true&hide_border=true" width="45%" alt="Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cagdas-y&theme=dark&hide_border=true" width="45%" alt="Streak"/>
 </p>
 
 ---
@@ -128,34 +115,26 @@ skills:
 
 ---
 
-## 🤝 Open Source Contributions
-- 💡 PRs to **Motion**, **ZoneMinder**, **GStreamer** enhancing camera modules.
-- 🐛 Reported & patched CVEs in `onvif` and `ffmpeg`.
-- ⭐ Maintainer for `cctv-security-kit` community toolkit.
+## 🌐 OSS Contributions
+- Contributed to **Motion**, **ZoneMinder**, **GStreamer** for camera enhancements.
+- Patched CVEs in **onvif**, **ffmpeg**.
 
 ---
 
-## 🤖 GitHub Actions & Automations
-- 🔄 **Blog Fetcher**: Auto-updates Medium & Dev.to list.
-- 📈 **Stats Refresher**: Daily cache invalidation for stats cards.
-- ⚠️ **CVE Watcher**: Real-time alerts for camera/IoT vulnerabilities.
-- 📝 **Doc Generator**: Auto-generates API docs from code.
+## 🤖 Automations
+- 🔄 Blog autoposter: Medium & Dev.to
+- 📈 Stats refresher: Daily update
+- ⚠️ CVE watcher: Alerts on new vulnerabilities
 
 ---
 
-## 💖 Sponsors & Support
+## 🤝 Connect & Sponsors
 <p align="center">
-  <a href="https://github.com/sponsors/cagdas-y"><img src="https://img.shields.io/badge/Sponsor-Me-ff470f?style=for-the-badge&logo=github"/></a>
-  <a href="https://buymeacoffee.com/cagdas"><img src="https://img.shields.io/badge/Buy Me a Coffee-☕-ff813f?style=for-the-badge&logo=buymeacoffee&logoColor=white"/></a>
-</p>
-
----
-
-## 📫 Contact & Socials
-<p align="center">
-  <a href="mailto:cadozc.3506@gmail.com"><img src="https://img.shields.io/badge/Gmail-cadozc.3506@gmail.com-D14836?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://linkedin.com/in/cagdas-y"><img src="https://img.shields.io/badge/LinkedIn-cagdas--y-0077B5?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:cadozc.3506@gmail.com"><img src="https://img.shields.io/badge/Email-cadozc.3506@gmail.com-D14836?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://linkedin.com/in/cagdas-y"><img src="https://img.shields.io/badge/LinkedIn-cagdas--y-0A66C2?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://instagram.com/cagdas.rrf"><img src="https://img.shields.io/badge/Instagram-cagdas.rrf-E4405F?style=for-the-badge&logo=instagram"/></a>
+  <br>
+  <a href="https://github.com/sponsors/cagdas-y"><img src="https://img.shields.io/badge/Sponsor-Me-FF66C4?style=for-the-badge&logo=github"/></a>
 </p>
 
 ---
