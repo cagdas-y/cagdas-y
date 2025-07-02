@@ -1,13 +1,8 @@
 <!-- Enhanced Professional GitHub ReadMe with Advanced Styling + Visual FX -->
 
-<!-- BANNER -->
+<!-- BANNER - Updated and Sleek Cyberpunk Theme -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cagdas-y/cagdas-y/main/assets/ultra-modern-banner.gif" alt="Ultra Modern Banner" width="100%"/>
-</p>
-
-<!-- CYBER EFFECT -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFjMGFhZjBmMmVmOTIzM2VjYzY4MmMwYjBhMjAwM2I1Yjk1YjcxOCZjdD1n/LmNwrBhejkK9EFP502/giphy.gif" width="280px" />
+  <img src="https://raw.githubusercontent.com/cagdas-y/cagdas-y/main/assets/cyber-glow-banner.gif" alt="Cyber Glow Banner" width="100%"/>
 </p>
 
 <!-- HEADER -->
