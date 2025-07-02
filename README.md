@@ -1,8 +1,13 @@
-<!-- Enhanced Professional GitHub ReadMe with Advanced Styling -->
+<!-- Enhanced Professional GitHub ReadMe with Advanced Styling + Visual FX -->
 
 <!-- BANNER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/cagdas-y/cagdas-y/main/assets/ultra-modern-banner.gif" alt="Ultra Modern Banner" width="100%"/>
+</p>
+
+<!-- CYBER EFFECT -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFjMGFhZjBmMmVmOTIzM2VjYzY4MmMwYjBhMjAwM2I1Yjk1YjcxOCZjdD1n/LmNwrBhejkK9EFP502/giphy.gif" width="280px" />
 </p>
 
 <!-- HEADER -->
@@ -51,7 +56,7 @@ motto: "Bridging hardware with smart security"
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,go,bash,linux,docker,kubernetes,terraform,ansible,opencv,nmap,burpsuite,wireshark,vscode,github,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,go,bash,linux,docker,kubernetes,terraform,ansible,opencv,nmap,burpsuite,wireshark,github,raspberrypi" />
 </p>
 
 ---
