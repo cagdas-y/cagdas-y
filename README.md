@@ -1,4 +1,4 @@
-<!-- Better GitHub Profile ReadMe Design for Çağdaş -->
+<!-- Enhanced Professional GitHub ReadMe with Advanced Styling -->
 
 <!-- BANNER -->
 <p align="center">
@@ -6,8 +6,8 @@
 </p>
 
 <!-- HEADER -->
-<h1 align="center">👨‍💻 Çağdaş</h1>
-<h3 align="center">Cyber-Physical Security Architect & IoT Visionary</h3>
+<h1 align="center" style="font-size: 3em; color: #FFD700; font-family: 'Segoe UI', sans-serif;">👨‍💻 Çağdaş</h1>
+<h3 align="center" style="color:#00BFFF;">Cyber-Physical Security Architect & IoT Visionary</h3>
 <p align="center">
   🇹🇷 Türkiye • <em>"Bridging hardware with smart security."</em>
 </p>
@@ -21,12 +21,12 @@
 
 ---
 
-## 🔍 Summary Cards
-<p align="center">
+## 🧩 Interactive Overview
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cagdas-y&theme=highcontrast"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cagdas-y&theme=highcontrast"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/languages?username=cagdas-y&theme=highcontrast"/>
-</p>
+</div>
 
 ---
 
@@ -45,19 +45,20 @@ motto: "Bridging hardware with smart security"
 
 - 🔭 Always exploring edge AI for proactive defense.
 - 🛡️ Passionate about zero-trust and hardware-level hardening.
+- 💡 Currently researching AI-integrated intrusion systems.
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,go,bash,linux,docker,kubernetes,terraform,ansible,opencv,nmap,burpsuite,wireshark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,go,bash,linux,docker,kubernetes,terraform,ansible,opencv,nmap,burpsuite,wireshark,vscode,github,raspberrypi" />
 </p>
 
 ---
 
-## 🚀 Highlight Projects
+## 🧠 Active Projects
 <details>
-  <summary>📡 CCTV Security Scanner (AI-Enhanced)</summary>
+  <summary>📡 <strong>CCTV Security Scanner</strong> (AI-Enhanced)</summary>
   <ul>
     <li>Automates RTSP/ONVIF scanning with ML anomaly detection.</li>
     <li><a href="https://github.com/cagdas-y/CCTV-Security-Scanner">🔗 Repository</a></li>
@@ -65,7 +66,7 @@ motto: "Bridging hardware with smart security"
 </details>
 
 <details>
-  <summary>🤖 Shodan RTSP Bot</summary>
+  <summary>🤖 <strong>Shodan RTSP Bot</strong></summary>
   <ul>
     <li>Aggregates live streams and metadata for exposed cameras.</li>
     <li><a href="https://github.com/cagdas-y/rtsp-bot">🔗 Repository</a></li>
@@ -73,7 +74,7 @@ motto: "Bridging hardware with smart security"
 </details>
 
 <details>
-  <summary>🔧 Firmware Inspection Toolkit</summary>
+  <summary>🔧 <strong>Firmware Inspection Toolkit</strong></summary>
   <ul>
     <li>Extraction, decompilation, and vulnerability analysis for IoT firmware.</li>
     <li><a href="https://github.com/cagdas-y/firmware-toolbox">🔗 Repository</a></li>
@@ -81,7 +82,7 @@ motto: "Bridging hardware with smart security"
 </details>
 
 <details>
-  <summary>🧠 AnomalyAI</summary>
+  <summary>🧠 <strong>AnomalyAI</strong></summary>
   <ul>
     <li>Edge-based pipeline for real-time video anomaly alerts.</li>
     <li><a href="https://github.com/cagdas-y/anomalyai">🔗 Repository</a></li>
@@ -95,29 +96,32 @@ motto: "Bridging hardware with smart security"
   <li>🏆 Top 1% on HackTheBox & Global CTFs</li>
   <li>📜 Published 3 CVEs in camera & IoT firmware</li>
   <li>🎤 Keynote Speaker at IoT Security Summit 2024</li>
+  <li>🧬 Built 5+ AI-integrated security systems</li>
 </ul>
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cagdas-y&theme=dark&show_icons=true&hide_border=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cagdas-y&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cagdas-y&theme=radical&show_icons=true&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cagdas-y&theme=radical&hide_border=true" width="45%" />
 </p>
 
 ---
 
-## 🌐 Open Source & Contributions
+## 🛰️ Open Source & Contributions
 - 🛠️ Contributed to Motion, ZoneMinder camera modules
 - 🐛 Patched critical CVEs in ONVIF & FFmpeg libraries
 - ⭐ Maintainer of CCTV-Security-Kit community toolkit
+- 🤖 Provided AI modules for open camera firmware analysis
 
 ---
 
-## 🤖 Automations & DevOps
-- 🔄 Blog & Medium autopost via GitHub Actions
-- 📊 WakaTime & CodeTime daily sync
-- ⚠️ Real-time CVE alert workflow
+## ⚙️ Automations & DevOps
+- 🔄 Medium & Blog autopost via GitHub Actions
+- 📊 WakaTime & CodeTime daily stats integration
+- ⚠️ CVE-alert webhook for new vulnerabilities
+- 🧪 CI for firmware fuzzing pipeline
 
 ---
 
@@ -130,4 +134,8 @@ motto: "Bridging hardware with smart security"
 
 ---
 
-<p align="center"><em>“In security, proactive vision outpaces reactive walls.”</em></p>
+<p align="center" style="font-size: 1.1em;"><em>“In security, proactive vision outpaces reactive walls.”</em></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00BFFF,100:FFD700&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=20"/>
+</p>
