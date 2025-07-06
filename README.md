@@ -133,7 +133,9 @@ motto: "Bridging hardware with smart security"
 
 ---
 
-<p align="center" style="font-size: 1.1em;"><em>“In security, proactive vision outpaces reactive walls.”</em></p>
+<p align="center" style="font-size: 1.5em;"><em>“Her sistem savunmasızdır, sadece doğru bilgiyi alın ve pes etmeyin, kendimi böyle teselli ediyorum”</em></p>
+<br>
+<p align="center" style="font-size: 1.1em;"><em>“In security, proactive vision outpaces reactive walls.”</em></p> 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00BFFF,100:FFD700&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=20"/>
