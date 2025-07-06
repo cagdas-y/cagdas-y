@@ -93,9 +93,8 @@ motto: "Bridging hardware with smart security"
 
 ## 🏅 Achievements
 <ul>
-  <li>🏆 Top 1% on HackTheBox & Global CTFs</li>
+  <li>🏆 Top 3% on HackTheBox & Global CTFs</li>
   <li>📜 Published 3 CVEs in camera & IoT firmware</li>
-  <li>🎤 Keynote Speaker at IoT Security Summit 2024</li>
   <li>🧬 Built 5+ AI-integrated security systems</li>
 </ul>
 
