@@ -133,7 +133,7 @@ motto: "Bridging hardware with smart security"
 
 ---
 
-<p align="center" style="font-size: 1.5em;"><em>“Her sistem savunmasızdır, sadece doğru bilgiyi alın ve pes etmeyin, kendimi böyle teselli ediyorum”</em></p>
+<p align="center" style="font-siz:">
 <br>
 <p align="center" style="font-size: 1.1em;"><em>“In security, proactive vision outpaces reactive walls.”</em></p> 
 
