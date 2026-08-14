@@ -1,42 +1,63 @@
-<div align="center">
+# Çağdaş Yusuf Zenci
 
-# 🚀 Hello, I'm Cagdas Yusuf
-### Full-Stack Web & Data Automation Architect
+### IT Support • System & Network • Cyber Security • Python • AI
 
----
-
-<p>
-  <em>"Turning complex business challenges into high-performance, data-driven digital systems."</em>
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network-1F2937?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cyber%20Security-111827?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
-<!-- Tech Stack Badges -->
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+---
 
-</div>
+## 👋 About Me
+
+I'm a **Bilişim Teknolojileri graduate** focused on IT infrastructure,
+system administration, networking and cybersecurity.
+
+I have hands-on experience with **IT support, Active Directory,
+Windows systems, network troubleshooting, hardware and technical support**.
+
+My long-term goal is to combine:
+
+**IT Infrastructure + Cyber Security + Python + Artificial Intelligence**
+
+and build practical, automation-oriented security solutions.
+
+I believe the best way to learn technology is not only to read about it,
+but to **build it, break it, troubleshoot it, understand it and secure it.**
 
 ---
 
-## 🛠 My Expertise
+## 🎯 Career Path
 
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Web Dev** | Next.js, React, TypeScript, Tailwind CSS |
-| **Automation** | Python, Web Scraping, Custom Workflow Pipelines |
-| **Data & Algorithms** | **NumPy, Pandas, Data Processing, Computer Vision** |
-| **DevOps/Tools** | Git, Docker, Vercel, Postman, Linux |
-
----
-
-## 💡 Why Choose Me?
-
-*   **Intelligent Data Solutions:** I develop custom algorithms and intelligent data processing pipelines to automate complex decision-making without relying on generic third-party models.
-*   **Data-Driven Development:** Using **NumPy** and **Pandas**, I perform efficient data manipulation and analysis to drive accuracy and project success.
-*   **Scalable Architecture:** I build secure, high-performance code that grows with your business, not against it.
-*   **Process Automation:** Stop doing manual work. I create resilient pipelines and web scrapers that save you hours every single day.
-*   **Result-Oriented:** I focus on the ROI of your project—delivering features that add real, measurable value.
-
----
+```text
+                    IT SUPPORT
+                         │
+                         ▼
+                SYSTEM & NETWORK
+                         │
+              ┌──────────┴──────────┐
+              ▼                     ▼
+          WINDOWS                  LINUX
+              │                     │
+              └──────────┬──────────┘
+                         ▼
+                  CYBER SECURITY
+                         │
+              ┌──────────┴──────────┐
+              ▼                     ▼
+       SECURITY AUTOMATION     NETWORK SECURITY
+              │                     │
+              └──────────┬──────────┘
+                         ▼
+                       PYTHON
+                         │
+                         ▼
+                 AI + SECURITY
+                         │
+                         ▼
+                   AI SECURITY
