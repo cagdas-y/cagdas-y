@@ -4,32 +4,29 @@
 
 **Bilişim Teknolojileri Mezunu · Android Geliştirici · Shypact Labs Kurucusu**
 
-[![Website](https://img.shields.io/badge/Web-shypact.com-8E05E8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.shypact.com/)
-[![Kurumsal](https://img.shields.io/badge/Kurumsal-contact%40shypact.com-181717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@shypact.com)
-[![Kişisel](https://img.shields.io/badge/Kişisel-cadozc.3506%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cadozc.3506@gmail.com)
-[![Konum](https://img.shields.io/badge/İzmir-Türkiye-181717?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+🌐 [shypact.com](https://www.shypact.com/) &nbsp;•&nbsp; 📧 [contact@shypact.com](mailto:contact@shypact.com) &nbsp;•&nbsp; 📮 [cadozc.3506@gmail.com](mailto:cadozc.3506@gmail.com) &nbsp;•&nbsp; 📍 İzmir, Türkiye
 
-<sub>Kotlin & Jetpack Compose · Ktor · Python · Yapay zekâ temelleri</sub>
+<sub>Kotlin · Jetpack Compose · Ktor · Python · Yapay zekâ temelleri</sub>
 
 </div>
 
 ---
 
-## Hakkımda
+## 👋 Hakkımda
 
-İzmir'de yaşayan bir Bilişim Teknolojileri mezunuyum. **Shypact Labs** adıyla bağımsız bir dijital ürün stüdyosu yürütüyor; mobil uygulamalar geliştiriyorum.
+İzmir'de yaşayan bir Bilişim Teknolojileri mezunuyum. **Shypact Labs** adıyla bağımsız bir dijital ürün stüdyosu yürütüyor, mobil uygulamalar geliştiriyorum.
 
 - **Ürün:** SHYWISH, anonim sohbet ve keşif odaklı bir Android uygulaması. Şu an geliştirme ve test aşamasında, henüz yayında değil.
-- **Hizmet:** Özel Android uygulama geliştirme (Custom Android Development).
-- **Yaklaşım:** Basit ve sürdürülebilir mimari, ölçülebilir performans, gizlilik öncelikli tasarım ve gerçek cihazda test.
+- **Hizmet:** Özel Android uygulama geliştirme.
+- **Yaklaşım:** Sade ve sürdürülebilir mimari, ölçülebilir performans, gizlilik öncelikli tasarım, gerçek cihazda test.
 
 ---
 
-## Ne Yapıyorum
+## 🛠️ Ne Yapıyorum
 
 | Alan | Kullandıklarım |
 |---|---|
-| 📱 Android | Kotlin, Jetpack Compose, Room, Retrofit, Compose testleri |
+| 📱 Android | Kotlin, Jetpack Compose, Room, Retrofit |
 | 🖥️ Sunucu | Ktor, Exposed, H2 / PostgreSQL, WebSocket |
 | 🌐 Web | HTML, CSS, JavaScript, Cloudflare Pages |
 | 🤖 Veri & YZ | Python, NumPy, Pandas, PyTorch (öğrenme aşamasında) |
@@ -37,40 +34,33 @@
 
 ---
 
-## Ürünler
+## 🚀 Ürünler
 
 ### SHYWISH (Android)
-Sakin, koyu temalı, anonim bir sohbet ve keşif uygulaması.
+Sakin, koyu temalı, anonim sohbet ve keşif uygulaması.
 
-- Kotlin ve Jetpack Compose ile arayüz; Ktor tabanlı sunucu.
-- Otomatik birim ve sunucu testleri, CI (GitHub Actions) üzerinde çalışır.
-- Gizlilik: konum toplanmaz, şehir ve ülke yalnızca kullanıcının kendi beyanıdır.
-- Durum: test aşamasında. Yayın tarihi henüz yok.
+- Kotlin ve Jetpack Compose arayüzü, Ktor tabanlı sunucu.
+- Birim ve sunucu testleri, GitHub Actions CI üzerinde çalışır.
+- Gizlilik: konum toplanmaz; şehir ve ülke yalnızca kullanıcının kendi beyanıdır.
+- Durum: test aşamasında, yayın tarihi henüz yok.
 
-### Shypact (shypact.com)
-Şirket sitesi ve ürünlerin web tarafı: gizlilik politikası, hesap silme sayfası, iletişim.
+### Shypact ([shypact.com](https://www.shypact.com/))
+Şirket sitesi: gizlilik politikası, hesap silme sayfası ve iletişim.
 
 ---
 
-## Staj Deneyimi
+## 💼 Staj Deneyimi
 
 **Sosyal Güvenlik Kurumu (SGK), BT Stajyeri, İzmir (2025–2026)**
-Kurumsal kullanıcı bilgisayarlarının kurulumu, Active Directory hesap işlemleri, ağ (IP/DNS) sorun giderme ve donanım destek süreçleri.
+Kurumsal bilgisayar kurulumu, Active Directory hesap işlemleri, IP/DNS sorun giderme ve donanım destek.
 
 ---
 
-## Çalışma Yaklaşımı
+## 📫 İletişim
 
-```text
-Tasarla → Geliştir → Cihazda test et → Ölç → İyileştir
-```
-
----
-
-## İletişim
-
-[![Kurumsal](https://img.shields.io/badge/contact@shypact.com-181717?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@shypact.com)
-[![Kişisel](https://img.shields.io/badge/cadozc.3506@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cadozc.3506@gmail.com)
-[![Web](https://img.shields.io/badge/shypact.com-8E05E8?style=flat-square&logo=googlechrome&logoColor=white)](https://www.shypact.com/)
-
-**Kurumsal iletişim** için `contact@shypact.com` kullanın. Destek ve güvenlik talepleri için `support@shypact.com` ve `safety@shypact.com` adreslerini kullanabilirsiniz.
+| Amaç | Adres |
+|---|---|
+| Kurumsal | [contact@shypact.com](mailto:contact@shypact.com) |
+| Destek | [support@shypact.com](mailto:support@shypact.com) |
+| Güvenlik | [safety@shypact.com](mailto:safety@shypact.com) |
+| Kişisel | [cadozc.3506@gmail.com](mailto:cadozc.3506@gmail.com) |
