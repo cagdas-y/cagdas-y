@@ -4,9 +4,9 @@
 
 **Bilişim Teknolojileri Mezunu · Android Geliştirici · Shypact Labs Kurucusu**
 
-🌐 [shypact.com](https://www.shypact.com/) &nbsp;•&nbsp; 📧 [contact@shypact.com](mailto:contact@shypact.com) &nbsp;•&nbsp; 📮 [cadozc.3506@gmail.com](mailto:cadozc.3506@gmail.com) &nbsp;•&nbsp; 📍 İzmir, Türkiye
+🌐 [shypact.com](https://www.shypact.com/) &nbsp;•&nbsp; 📧 [contact@shypact.com](mailto:contact@shypact.com) &nbsp;•&nbsp; 📍 İzmir, Türkiye
 
-<sub>Kotlin · Jetpack Compose · Ktor · Python · Yapay zekâ temelleri</sub>
+<sub>Yapay zekâ · Android geliştirme · Web geliştirme · Python</sub>
 
 </div>
 
@@ -14,45 +14,58 @@
 
 ## 👋 Hakkımda
 
-İzmir'de yaşayan bir Bilişim Teknolojileri mezunuyum. **Shypact Labs** adıyla bağımsız bir dijital ürün stüdyosu yürütüyor, mobil uygulamalar geliştiriyorum.
+İzmir'de yaşayan bir Bilişim Teknolojileri mezunuyum. **Shypact Labs** adıyla bağımsız bir dijital ürün stüdyosu yürütüyor; mobil uygulamalar ve web tarafı geliştiriyorum.
 
-- **Ürün:** SHYWISH, anonim sohbet ve keşif odaklı bir Android uygulaması. Şu an geliştirme ve test aşamasında, henüz yayında değil.
-- **Hizmet:** Özel Android uygulama geliştirme.
-- **Yaklaşım:** Sade ve sürdürülebilir mimari, ölçülebilir performans, gizlilik öncelikli tasarım, gerçek cihazda test.
+Odağım üç alanda: **Android uygulama geliştirme** (Kotlin, Jetpack Compose), **web geliştirme** ve **yapay zekâ** temelleri (Python, veri işleme, makine öğrenmesi). Öğrenmeyi yaparak ilerlemeyi tercih ediyorum: öğren, geliştir, test et, ölç.
 
 ---
 
-## 🛠️ Ne Yapıyorum
+## 🚀 Projeler
+
+### 📱 SHYWISH (Android)
+**Rol:** Kurucu ve baş geliştirici
+
+Koyu temalı, sakin tasarımlı, anonim sohbet ve keşif uygulaması.
+
+- Kotlin ve Jetpack Compose arayüzü; Ktor tabanlı sunucu ve WebSocket iletişimi.
+- Birim ve sunucu test paketleri; GitHub Actions üzerinde otomatik derleme ve test.
+- Gizlilik odaklı tasarım: konum toplanmaz, şehir ve ülke yalnızca kullanıcının kendi beyanıdır.
+- **Durum:** Geliştirme ve test aşamasında, henüz yayında değil.
+
+### 🌐 Shypact ([shypact.com](https://www.shypact.com/))
+**Rol:** Kurucu ve tam yığın geliştirici
+
+Şirket web sitesi: gizlilik politikası, hesap silme sayfası ve iletişim.
+
+### 🤖 Yapay Zekâ ve Veri Çalışmaları
+- Python ile veri işleme (NumPy, Pandas) ve temel istatistik.
+- Lineer cebir ve olasılık üzerine çalışmalar; model değerlendirme prensipleri.
+
+---
+
+## 💼 Deneyim
+
+### Sosyal Güvenlik Kurumu (SGK), Bilgi Teknolojileri Stajyeri
+**İzmir, Türkiye · 2025 – 2026**
+
+Kurumsal BT altyapısında son kullanıcı destek sürecinde görev aldım:
+
+- **Sistem ve istemci desteği:** Kurumsal kullanıcılar için Windows iş istasyonlarının kurulumu, imajlanması ve yapılandırılması.
+- **Hesap ve alan adı işlemleri:** Active Directory kullanıcı hesapları, erişim yetkileri ve alan adına iş istasyonu katılımı.
+- **Ağ ve bağlantı:** Ofis cihazlarında IP, DNS ve ağ bağlantısı sorunlarının teşhisi.
+- **Donanım ve bakım:** Masaüstü donanım tanılamaları, çevre birimi sorun giderme ve yerinde teknik destek.
+
+---
+
+## 🛠️ Teknolojiler
 
 | Alan | Kullandıklarım |
 |---|---|
 | 📱 Android | Kotlin, Jetpack Compose, Room, Retrofit |
 | 🖥️ Sunucu | Ktor, Exposed, H2 / PostgreSQL, WebSocket |
-| 🌐 Web | HTML, CSS, JavaScript, Cloudflare Pages |
-| 🤖 Veri & YZ | Python, NumPy, Pandas, PyTorch (öğrenme aşamasında) |
-| 🧰 Araçlar | Git, GitHub Actions, Gradle, Linux, Bash |
-
----
-
-## 🚀 Ürünler
-
-### SHYWISH (Android)
-Sakin, koyu temalı, anonim sohbet ve keşif uygulaması.
-
-- Kotlin ve Jetpack Compose arayüzü, Ktor tabanlı sunucu.
-- Birim ve sunucu testleri, GitHub Actions CI üzerinde çalışır.
-- Gizlilik: konum toplanmaz; şehir ve ülke yalnızca kullanıcının kendi beyanıdır.
-- Durum: test aşamasında, yayın tarihi henüz yok.
-
-### Shypact ([shypact.com](https://www.shypact.com/))
-Şirket sitesi: gizlilik politikası, hesap silme sayfası ve iletişim.
-
----
-
-## 💼 Staj Deneyimi
-
-**Sosyal Güvenlik Kurumu (SGK), BT Stajyeri, İzmir (2025–2026)**
-Kurumsal bilgisayar kurulumu, Active Directory hesap işlemleri, IP/DNS sorun giderme ve donanım destek.
+| 🌐 Web | HTML, CSS, JavaScript |
+| 🤖 Veri ve YZ | Python, NumPy, Pandas |
+| 🧰 Araçlar | Git, GitHub, GitHub Actions, Gradle, Linux, Bash |
 
 ---
 
@@ -61,6 +74,5 @@ Kurumsal bilgisayar kurulumu, Active Directory hesap işlemleri, IP/DNS sorun gi
 | Amaç | Adres |
 |---|---|
 | Kurumsal | [contact@shypact.com](mailto:contact@shypact.com) |
-| Destek | [support@shypact.com](mailto:support@shypact.com) |
-| Güvenlik | [safety@shypact.com](mailto:safety@shypact.com) |
-| Kişisel | [cadozc.3506@gmail.com](mailto:cadozc.3506@gmail.com) |
+| Uygulama destek | [support@shypact.com](mailto:support@shypact.com) |
+| Güvenlik ve şikayet | [safety@shypact.com](mailto:safety@shypact.com) |
