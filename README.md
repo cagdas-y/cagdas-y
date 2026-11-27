@@ -2,91 +2,91 @@
 
 # Çağdaş Yusuf Zenci
 
-**Bilişim Teknolojileri Mezunu · Android Geliştirici · Shypact Labs Kurucusu**
+**Information Technology Graduate · Android Developer · Founder of Shypact Labs**
 
 🌐 [shypact.com](https://www.shypact.com/) &nbsp;•&nbsp; 📧 [contact@shypact.com](mailto:contact@shypact.com) &nbsp;•&nbsp; 📍 İzmir, Türkiye
 
-<sub>Yapay zekâ · Android geliştirme · Web geliştirme · Python</sub>
+<sub>Artificial Intelligence · Android Development · Web Development · Python</sub>
 
 </div>
 
 ---
 
-## 👋 Hakkımda
+## 👋 About Me
 
-İzmir'de yaşayan bir Bilişim Teknolojileri mezunuyum. **Shypact Labs** adıyla bağımsız bir dijital ürün stüdyosu yürütüyor; mobil uygulamalar ve web tarafı geliştiriyorum.
+I am an Information Technology graduate based in İzmir, Türkiye. I run **Shypact Labs**, an independent digital product studio, where I build mobile applications and web platforms.
 
-Odağım üç alanda: **Android uygulama geliştirme** (Kotlin, Jetpack Compose), **web geliştirme** ve **yapay zekâ** temelleri (Python, veri işleme, makine öğrenmesi). Öğrenmeyi yaparak ilerlemeyi tercih ediyorum: öğren, geliştir, test et, ölç.
+My focus is on three areas: **Android development** (Kotlin, Jetpack Compose), **web development**, and **artificial intelligence** fundamentals (Python, data processing, machine learning). I prefer learning by building: learn, build, test, measure.
 
 ---
 
-## 🚀 Projeler
+## 🚀 Projects
 
 ### 📱 SHYWISH (Android)
-**Rol:** Kurucu ve baş geliştirici
+**Role:** Founder and lead developer
 
-Koyu temalı, sakin tasarımlı, anonim sohbet ve keşif uygulaması.
+A calm, dark-themed, anonymous chat and discovery application.
 
-- Kotlin ve Jetpack Compose arayüzü; Ktor tabanlı sunucu ve WebSocket iletişimi.
-- Birim ve sunucu test paketleri; GitHub Actions üzerinde otomatik derleme ve test.
-- Gizlilik odaklı tasarım: konum toplanmaz, şehir ve ülke yalnızca kullanıcının kendi beyanıdır.
-- **Durum:** Geliştirme ve test aşamasında, henüz yayında değil.
+- Kotlin and Jetpack Compose user interface; Ktor-based server with WebSocket communication.
+- Unit and server test suites, with automated build and test on GitHub Actions.
+- Privacy-focused design: no location collection; city and country are only what the user declares.
+- **Status:** In development and testing. Not yet released.
 
 ### 🌐 Shypact ([shypact.com](https://www.shypact.com/))
-**Rol:** Kurucu ve tam yığın geliştirici
+**Role:** Founder and full-stack developer
 
-Şirket web sitesi: gizlilik politikası, hesap silme sayfası ve iletişim.
+Company website, including the privacy policy, account deletion page and contact channels.
 
-### 🤖 Yapay Zekâ ve Veri Çalışmaları
-- Python ile veri işleme (NumPy, Pandas) ve temel istatistik.
-- Lineer cebir ve olasılık üzerine çalışmalar; model değerlendirme prensipleri.
+### 🤖 Artificial Intelligence and Data
+- Data processing with Python (NumPy, Pandas) and foundational statistics.
+- Study of linear algebra and probability; model evaluation principles.
 
 ---
 
-## 💼 Deneyim
+## 💼 Experience
 
-### Sosyal Güvenlik Kurumu (SGK), Bilgi Teknolojileri Stajyeri
+### Social Security Institution (SGK), Information Technology Intern
 **İzmir, Türkiye · 2025 – 2026**
 
-Kurumsal BT altyapısında son kullanıcı destek sürecinde görev aldım:
+Worked on the end-user support process within a corporate IT environment:
 
-- **Sistem ve istemci desteği:** Kurumsal kullanıcılar için Windows iş istasyonlarının kurulumu, imajlanması ve yapılandırılması.
-- **Hesap ve alan adı işlemleri:** Active Directory kullanıcı hesapları, erişim yetkileri ve alan adına iş istasyonu katılımı.
-- **Ağ ve bağlantı:** Ofis cihazlarında IP, DNS ve ağ bağlantısı sorunlarının teşhisi.
-- **Donanım ve bakım:** Masaüstü donanım tanılamaları, çevre birimi sorun giderme ve yerinde teknik destek.
+- **System and client support:** Installed, imaged and configured Windows workstations for corporate users.
+- **Account and domain operations:** Active Directory user accounts, access permissions and workstation domain joining.
+- **Network and connectivity:** Diagnosed IP, DNS and network connectivity issues on office devices.
+- **Hardware and maintenance:** Desktop hardware diagnostics, peripheral troubleshooting and on-site technical support.
 
 ### EBOS Bilgisayar
-**Rol:** Teknik destek ve donanım
+**Role:** Technical support and hardware
 
-- Bilgisayar donanımı, ağ altyapısı ve switch/ağ ekipmanlarının kurulumu ve sorun giderme.
-- CCTV sistemleri kurulumu ve teknik destek.
-- Donanım tanılama ve bakım.
+- Installation and troubleshooting of computer hardware, network infrastructure and switches/network equipment.
+- CCTV system installation and technical support.
+- Hardware diagnosis and maintenance.
 
 ### UNO Donanım ve Büro Makineleri
-**Rol:** Teknik servis
+**Role:** Technical service
 
-- Bilgisayar donanımı, yazıcı ve çevre birimleri üzerinde tanılama, bakım ve onarım.
-- Yerinde teknik destek.
+- Diagnostics, maintenance and repair of computer hardware, printers and peripheral devices.
+- On-site technical support.
 
 ---
 
-## 🛠️ Teknolojiler
+## 🛠️ Technologies
 
-| Alan | Kullandıklarım |
+| Area | Tools |
 |---|---|
 | 📱 Android | Kotlin, Jetpack Compose, Room, Retrofit |
-| 🖥️ Sunucu | Ktor, Exposed, H2 / PostgreSQL, WebSocket |
+| 🖥️ Server | Ktor, Exposed, H2 / PostgreSQL, WebSocket |
 | 🌐 Web | HTML, CSS, JavaScript |
-| 🤖 Veri ve YZ | Python, NumPy, Pandas |
-| 🖧 Sistem ve Ağ | Windows, Active Directory, DNS, DHCP, TCP/IP, Linux |
-| 🧰 Araçlar | Git, GitHub, GitHub Actions, Gradle, Bash |
+| 🤖 Data & AI | Python, NumPy, Pandas |
+| 🖧 Systems & Networking | Windows, Active Directory, DNS, DHCP, TCP/IP, Linux |
+| 🧰 Tools | Git, GitHub, GitHub Actions, Gradle, Bash |
 
 ---
 
-## 📫 İletişim
+## 📫 Contact
 
-| Amaç | Adres |
+| Purpose | Address |
 |---|---|
-| Kurumsal | [contact@shypact.com](mailto:contact@shypact.com) |
-| Uygulama destek | [support@shypact.com](mailto:support@shypact.com) |
-| Güvenlik ve şikayet | [safety@shypact.com](mailto:safety@shypact.com) |
+| Business | [contact@shypact.com](mailto:contact@shypact.com) |
+| App support | [support@shypact.com](mailto:support@shypact.com) |
+| Safety and reports | [safety@shypact.com](mailto:safety@shypact.com) |
