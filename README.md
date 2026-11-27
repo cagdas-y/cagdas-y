@@ -55,6 +55,19 @@ Kurumsal BT altyapısında son kullanıcı destek sürecinde görev aldım:
 - **Ağ ve bağlantı:** Ofis cihazlarında IP, DNS ve ağ bağlantısı sorunlarının teşhisi.
 - **Donanım ve bakım:** Masaüstü donanım tanılamaları, çevre birimi sorun giderme ve yerinde teknik destek.
 
+### EBOS Bilgisayar
+**Rol:** Teknik destek ve donanım
+
+- Bilgisayar donanımı, ağ altyapısı ve switch/ağ ekipmanlarının kurulumu ve sorun giderme.
+- CCTV sistemleri kurulumu ve teknik destek.
+- Donanım tanılama ve bakım.
+
+### UNO Donanım ve Büro Makineleri
+**Rol:** Teknik servis
+
+- Bilgisayar donanımı, yazıcı ve çevre birimleri üzerinde tanılama, bakım ve onarım.
+- Yerinde teknik destek.
+
 ---
 
 ## 🛠️ Teknolojiler
@@ -65,7 +78,8 @@ Kurumsal BT altyapısında son kullanıcı destek sürecinde görev aldım:
 | 🖥️ Sunucu | Ktor, Exposed, H2 / PostgreSQL, WebSocket |
 | 🌐 Web | HTML, CSS, JavaScript |
 | 🤖 Veri ve YZ | Python, NumPy, Pandas |
-| 🧰 Araçlar | Git, GitHub, GitHub Actions, Gradle, Linux, Bash |
+| 🖧 Sistem ve Ağ | Windows, Active Directory, DNS, DHCP, TCP/IP, Linux |
+| 🧰 Araçlar | Git, GitHub, GitHub Actions, Gradle, Bash |
 
 ---
 
